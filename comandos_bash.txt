@@ -1,0 +1,2 @@
+Ls -> lista arquivos
+cd -> change directory
