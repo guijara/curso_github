@@ -1,3 +1,4 @@
 Ls -> lista arquivos
 cd -> change directory
 pwd -> mostra onde vc tá
+rm -rf -> remove forçadamente a porra toda

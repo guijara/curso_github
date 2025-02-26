@@ -1,3 +1,4 @@
 git init . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho
 git add -> adiciona o arquivo na fila do commit
+git log -> mostra a árvore de commits
